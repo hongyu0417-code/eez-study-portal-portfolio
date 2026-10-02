@@ -1,0 +1,7 @@
+/* Improve readability for weekly resources and subject study advice. */
+.accordion-title b{font-size:16px}
+.accordion-title small{font-size:14px}
+.resource-file b{font-size:15px}
+.resource-file small{font-size:12px}
+.advice-label{font-size:15px}
+.advice-body{font-size:15px}
