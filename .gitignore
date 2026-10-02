@@ -1,0 +1,44 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# Framework and build output
+/.next/
+/.vinext/
+/out/
+/dist/
+/coverage/
+
+# Local and hosting state
+/.wrangler/
+/.vercel/
+/.openai/
+/work/
+/tmp/
+
+# Environment files and credentials
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+
+# Local databases and logs
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.db-wal
+*.db-shm
+*.log
+
+# OS files
+.DS_Store
